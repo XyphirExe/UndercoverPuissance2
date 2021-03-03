@@ -4,7 +4,10 @@ Le jeu sur smartphone mais refait sur Discord et avec un nombre illimité de pai
 ## Commandes
 
 ```
-U^start [liste de joueurs en format tag "@"] : Lance une partie avec la liste de joueur et la personne ayant exécuté la commande.
-U^link : Renvoie le lien pour inviter le bot
-U^rules : Renvoie les règles du jeu.
+U^start [liste de joueurs en format tag "@"] :
+  Lance une partie avec la liste de joueurs renseignée et la personne ayant exécuté la commande.
+U^link :
+  Renvoie le lien pour inviter le bot
+U^rules :
+  Renvoie les règles du jeu.
 ```
